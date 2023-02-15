@@ -1,0 +1,376 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:dc="https://purl.org/dc/elements/1.1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Bika_ambon">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Bika_ambon"/>
+		<dc:title>Bika Ambon</dc:title>
+		<dc:province>Sumatera Utara</dc:province>
+		<dc:city>Kota Medan</dc:city>
+		<dc:type>Makanan Ringan</dc:type>
+		<dc:ingridients>
+            Ambil 1000 ml santan dari 2 butir kelapa, 3 lembar daun pandan, 10 lembar daun jeruk, 1 batang serai, 2 ruas kunyit dipotong-potong, 1/2 sdt garam, 10 butir kuning telur, 2 butir telur utuh, 400 ml santan masak, 300 gr tepung sagu, 300 gr gula pasir, 1 sdm terigu, 6 sdm air hangat, 1 bungkus fermipan, dan 1 sdt gula pasir
+        </dc:ingridients>
+		<dc:Image rdf:resource="https://cdn.yummy.co.id/content-images/images/20200621/2TB85Wgu3htDvG6n9i6BJyrVkqy2VdmE-31353932373335343831d41d8cd98f00b204e9800998ecf8427e_800x800.jpg"/>
+		<dc:description>
+            Bika ambon adalah penganan khas Medan, Indonesia. Terbuat dari bahan-bahan seperti tepung tapioka, telur, gula, dan santan. Kini Bika Ambon dijual bukan saja rasa asli tetapi sudah ada varian rasa pandan, durian, keju, dan cokelat. Bika ambon yang dimasak selama 12 jam, ini biasanya dapat bertahan dalam kondisi terbaik selama empat hari karena setelah itu kue tersebut mulai mengeras. Kue basah ini biasanya memiliki jaring-jaring pada bagian dalamnya.
+        </dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Rendang">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Rendang"/>
+		<dc:title>Rendang</dc:title>
+		<dc:province>Sumatera Barat</dc:province>
+		<dc:city>Minangkabau</dc:city>
+		<dc:type>Makanan Berat</dc:type>
+		<dc:ingridients>
+            500 gr daging, 1 batang serai geprek, 3 lembar daun jeruk, 2 lembar daun salam, 1 ruas lengkuas geprek, 2 cm kayu manis, 1 sdt gula merah, 1 sdt kaldu sapi dan garam, 1/2 sdt jintan bubuk, 1/2 sdt merica bubuk, Jeruk nipis, 500 ml santan dari 1/2 kelapa, 4 siung bawang putih, 6 butir bawang merah, 2 butir kemiri, 1/2 sdt ketumbar, 3 cabai merah besar (buang bijinya), 2 cm kunyit, dan 3 cm jahe 
+        </dc:ingridients>
+		<dc:Image rdf:resource="https://images.tokopedia.net/img/cache/900/product-1/2020/5/7/805819851/805819851_ccdb215c-ba65-4c65-afb3-ccc4e20d4112_720_720.jpg"/>
+		<dc:description>Rendang atau randang adalah masakan daging asli Indonesia yang berasal dari Minangkabau. Masakan ini dihasilkan dari proses memasak suhu rendah dalam waktu lama menggunakan aneka rempah-rempah dan santan. Proses memasaknya memakan waktu berjam-jam (biasanya sekitar empat jam) hingga yang tinggal hanyalah potongan daging berwarna hitam pekat dan dedak.</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Pempek">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Pempek"/>
+		<dc:title>Pempek</dc:title>
+		<dc:province>Sumatera Selatan</dc:province>
+		<dc:city>Palembang</dc:city>
+		<dc:type>Makanan Ringan</dc:type>
+		<dc:ingridients>
+            500 gram ikan tenggiri, 300 gram air, 5 gram gula pasir, 25 gram garam, 5 gram penyedap rasa, dan 350 gram tepung sagu
+        </dc:ingridients>
+		<dc:Image rdf:resource="https://images.tokopedia.net/img/cache/900/VqbcmM/2021/6/5/b31a5772-9831-4333-b875-6a28ebdb141d.jpg"/>
+		<dc:description>Pempek dan tekwan merupakan makanan khas dari Daerah Palembang Sumatra Selatan, makanan ini begitu populer di Indonesia. Masakan yang terbuat dari sagu dan ikan ini memiliki rasa yang lezat dan gurih. Rasa lezat dalam sebuah hidangan empek – empek asli Palembang membuat setiap orang yang mencobanya menjadi ketagihan.
+        </dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Kerak_telor">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Kerak_telor"/>
+		<dc:title>Kerak Telor</dc:title>
+		<dc:province>DKI Jakarta</dc:province>
+		<dc:city>Jakarta</dc:city>
+		<dc:type>Makanan Ringan</dc:type>
+		<dc:ingridients>
+            6 sdm beras ketan, rendam semalam dan tiriskan, lalu 2 buah telur bebek ,2 sdt udang kering, rendam, sangrai dan haluskan, lalu 2 sdm kelapa parut setengah tua, sangrai, lalu 1 sdm bawang goreng, 1 sdm cabai merah iris, sangrai dan haluskan, dan yang terakhir 1 sdt garam
+        </dc:ingridients>
+		<dc:Image rdf:resource="https://cdn.kibrispdr.org/data/cara-membuat-kerak-telor-di-rumah-7.jpg"/>
+		<dc:description>
+            Kerak telur adalah makanan asli daerah Jakarta (Betawi), dengan bahan-bahan beras ketan putih, telur ayam atau bebek, ebi (udang kering yang diasinkan) yang disangrai kering ditambah bawang merah goreng, lalu diberi bumbu yang dihaluskan berupa kelapa sangrai, cabai merah, kencur, jahe, merica butiran, garam dan gula pasir. Kerak telor dapat ditemukan pada hari biasa. Anda bisa menemukan kerak telor di sekitar Kota Tua, Jakarta Barat. Menurut sejarah, Kerak Telor sudah ada dari zaman kolonial Belanda, kerak telor diciptakan oleh masyarakat Betawi secara tak sengaja Pada tahun 1970-an.
+        </dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Mi_aceh">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Mi_aceh"/>
+		<dc:title>Mie Aceh</dc:title>
+		<dc:province>Nanggroe Aceh Darussalam</dc:province>
+		<dc:city>Aceh</dc:city>
+		<dc:type>Makanan berat</dc:type>
+		<dc:ingridients>
+			400 gram mi kuning basah, siap pakai 150 gram daging sapi has dalam, iris dadu kecil 150 gram udang, belah menjadi 2 bagian 100 gram taoge 100 gram kol 1 L air 3 sdm daun bawang iris 2 sdm seledri iris 3 sdm minyak goreng
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://i.pinimg.com/736x/70/79/2b/70792b81b014f53a5daa3cbcc034d664.jpg"/>
+		<dc:description>
+			Mi aceh adalah masakan mi pedas khas Aceh di Indonesia. Mie kuning tebal dengan irisan daging sapi, daging kambing atau makanan laut (udang dan cumi) disajikan dalam sup sejenis kari yang gurih dan pedas. Mi aceh biasanya ditaburi dengan bawang goreng dan disajikan bersama emping, potongan bawang merah, mentimun, dan jeruk nipis.
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Mi_sagu">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Mi_sagu"/>
+		<dc:title>Mie sagu</dc:title>
+		<dc:province>Riau</dc:province>
+		<dc:city>pekanbaru</dc:city>
+		<dc:type>Makanan berat</dc:type>
+		<dc:ingridients>
+			1 bks mie sagu,1 btr telur,5 siung bawang merah,100 gr cabe merah,100 gr teri halus tanjung pinang,secukupnya penyedap rasa,2 siung bawang putih,secukupnya garam,secukupnya minyak goreng,1 btg daun bawang,1 btg daun saledri
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://img-global.cpcdn.com/recipes/334c8d9663c198d5/751x532cq70/mie-sagu-goreng-khas-riau-foto-resep-utama.jpg"/>
+		<dc:description>
+			Mie sagu adalah kuliner selingan makanan khas masyarakat di Riau khususnya masyarakat Selat panjang, di Pulau Tebing Tinggi dan sekitarnya, Kab. Kepulauan Meranti (pecahan Kab. Bengkalis), Provinsi Riau, Indonesia. Mie Sagu sudah ada dan menjadi panganan yang diminati masyarakat tempatan sejak zaman nenek moyang sampai dengan hari ini. Mie Sagu ini dibuat dari tepung sagu yang diolah dari batang pohon sagu, yang banyak tumbuh di daerah ini baik secara liar maupun dibudidayakan pada perkebunan rakyat.
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Tempoyak">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Tempoyak"/>
+		<dc:title>Tempoyak</dc:title>
+		<dc:province>Jambi</dc:province>
+		<dc:city>Jambi</dc:city>
+		<dc:type>Makanan berat</dc:type>
+		<dc:ingridients>
+			1 ekor ikan patin ukuran besar, potong-potong 175 gr tempoyak 5 lembar daun jeruk, buang tulangnya 2 lembar daun salam 2 batang serai, memarkan 2 cm jahe, memarkan ½ sdm garam 1 sdt gula 800 ml air 3 sdm minyak untuk menumis
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://asset.kompas.com/crops/hSRKsXt0wVH8WlaQSho262FGh3M=/209x60:931x541/750x500/data/photo/2019/06/07/2823890915.jpeg"/>
+		<dc:description>
+			Tempoyak atau tempuyak adalah masakan yang berasal dari buah durian yang difermentasi. Tempoyak merupakan makanan yang biasanya dikonsumsi sebagai lauk saat menyantap nasi. Tempoyak juga dapat dimakan langsung, tetapi hal ini jarang sekali dilakukan karena banyak yang tidak tahan dengan keasaman dan aroma dari tempoyak itu sendiri. Selain itu, tempoyak dijadikan bumbu masakan.
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Lakso">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Lakso"/>
+		<dc:title>Lakso</dc:title>
+		<dc:province>Sumatra Selatan</dc:province>
+		<dc:city>Palembang</dc:city>
+		<dc:type>Makanan Ringan</dc:type>
+		<dc:ingridients>
+			350 ml air,½ sdt garam,¼ sdt penyedap rasa,150 gram tepung beras,50 gram sagu tani
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://blog.reservasi.com/wp-content/uploads/2016/10/lakso-palembang.jpg"/>
+		<dc:description>
+			Lakso secara sederhana sering digambarkan sebagai laksa bergaya Palembang. Namun, sebenarnya makanan ini sangat berbeda dari laksa yang umum ditemukan di negara tetangga seperti Malaysia dan Singapura.[2] Lakso sangat mirip dengan burgo, meskipun burgo adalah panekuk dari tepung beras yang dilipat, dipotong, dan dihidangkan dalam kuah santan yang berwarna putih. Di Palembang, lakso bersama dengan burgo adalah pilihan jajanan yang populer untuk sarapan.[3]
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Geguduh">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Geguduh"/>
+		<dc:title>Geguduh</dc:title>
+		<dc:province>Lampung</dc:province>
+		<dc:city>Bandar lampung</dc:city>
+		<dc:type>Makanan ringan</dc:type>
+		<dc:ingridients>
+			Siapkan 4 buah pisang ambon,Kamu butuh 1 bks tepung pisang goreng sasa,Siapkan 2 sdm tepung terigu,Siapkan 2 sdm susu bubuk,Siapkan Secukupnya air,Siapkan Minyak untuk menggoreng,Kamu butuh Gula halus untuk taburan.
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://img-global.cpcdn.com/recipes/357630c927938129/751x532cq70/geguduh-khas-lampung-foto-resep-utama.jpg"/>
+		<dc:description>
+			Geguduh adalah salah satu camilan tradisional Lampung yang bercita rasa manis. Bahan baku utama geguduh adalah pisang kepok. Pisang tersebut akan dihaluskan sampai lembut kemudian ditambah dengan tepung terigu, lalu diaduk hingga merata. Selain itu, geguduh juga bisa ditambahkan susu, selai, dan rasa lainnya sebelum kemudian digoreng dan disajikan sebagai teman minum kopi atau juga nikmat sebagai sajian dalam acara-acara tertentu.
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Sate_bandeng">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Sate_bandeng"/>
+		<dc:title>Sate bandeng</dc:title>
+		<dc:province>Banten</dc:province>
+		<dc:city>Serang</dc:city>
+		<dc:type>Makanan berat</dc:type>
+		<dc:ingridients>
+			100 gram kelapa parut kasar, sangrai 2 ekor ikan bandeng ukuran sedang 2 sendok teh garam 25 gram gula merah, sisir 1/2 sendok teh asam jawa, larutkan dengan 1/2 sdm air 2 butir telur, kocok lepas 100 ml santan, dari 1/2 btr kelapa 2 sendok makan minyak, untuk menumis 2 lembar daun pisang, untuk membungkus 2 batang bambu, untuk penjepit
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://asset.kompas.com/crop/0x0:1023x682/750x500/data/photo/2019/04/20/3548501076.jpg"/>
+		<dc:description>
+			Sate Bandeng adalah masakan tradisional khas Banten, Indonesia.[1][2] Sate Bandeng dibuat dari ikan bandeng (Chanos chanos; bahasa Indonesia: ikan Bandeng) yang dihilangkan durinya, dagingnya dibumbui dan dimasukkan kembali ke kulitnya, lalu ditusuk atau dijepit tusukan tangkai bambu, lalu dibakar di atas bara arang.
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Soto_Betawi">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Soto_Betawi"/>
+		<dc:title>Soto Betawi</dc:title>
+		<dc:province>DKI Jakarta</dc:province>
+		<dc:city>Jakarta</dc:city>
+		<dc:type>Makanan berat</dc:type>
+		<dc:ingridients>
+			500 gram daging sanding lamur 2,5 liter air 200 gram babat, rebus, potong 2x2 200 gram paru, rebus, potong 2x2 2 ruas jari kayu manis 3 butir cengkih 4 batang serai, memarkan 2 ruas jari lengkuas 10 lembar daun jeruk, buang tulangnya 3 lembar daun salam 1 sdt pala bubuk 4 sdt garam ½ sdt merica bubuk 2 sdt gula pasir 500 ml santan 2 sdm minyak goreng
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://cdn-cas.orami.co.id/parenting/images/121267029_898785447318816_147767993758142809_n.width-800.jpg"/>
+		<dc:description>
+			Soto Betawi merupakan soto yang khas dari daerah DKI Jakarta. Seperti halnya Soto Madura dan Soto Sulung, soto Betawi juga menggunakan jeroan. Selain jeroan, sering kali organ-organ lain juga disertakan, seperti mata, terpedo, dan juga hati. Daging sapi juga menjadi bahan campuran dalam soto Betawi. Kuah soto Betawi merupakan campuran santan dan susu. Kedua campuran inilah yang membuat rasa soto Betawi begitu khas.
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Karedok">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Karedok"/>
+		<dc:title>Karedok</dc:title>
+		<dc:province>Jawa Barat</dc:province>
+		<dc:city>bandung</dc:city>
+		<dc:type>Makanan berat</dc:type>
+		<dc:ingridients>
+			2 porsi 50 gr oncom bakar;100 gr kacang panjang dicuci lalu dipotong kecil-kecil; 1 buah mentimun dicuci lalu dipotong kecil-kecil; 25 gr daun kemangi dicuci dan diambil daunnya. Bumbu yang dihaluskan : 1 ruas jari kencur, 1 siung bawang putih, 1/4 sdm garam, 1 sdm gula merah, 2 buah cabe rawit (sesuai selera), 1/4 sdt terasi. Bumbu yang telah dihaluskan dikoreksi rasanya. Selanjutnya masukan oncom kemudian diulek (masih kasar), masukan kacang panjang, diulek juga (masih kasar), lalu masukan mentimun, daun kemangi dan aduk rata.
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://cdn0-production-images-kly.akamaized.net/6dA3MYlTBPbzwIANKN772kAAPPU=/673x897/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3488216/original/031417900_1624243838-karedok.jpg"/>
+		<dc:description>
+			Karedok atau keredok adalah salah satu makanan khas Sunda di Indonesia. Karedok dibuat dengan bahan-bahan sayuran mentah antara lain; mentimun, taoge, kol, kacang panjang, ubi, daun kemangi, dan terong atau leunca. Sedangkan sausnya adalah bumbu kacang yang dibuat dari cabai merah, bawang putih, kencur, kacang tanah, air asam, gula jawa, garam, dan terasi. Salah satu ciri dari karedok adalah menggunakan oncom bakar. Bila tidak menggunakan oncom bakar disebutnya lotek mentah (atah).
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Serabi">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Serabi"/>
+		<dc:title>Serabi</dc:title>
+		<dc:province>Jawa Barat</dc:province>
+		<dc:city>bandung</dc:city>
+		<dc:type>Makanan ringan</dc:type>
+		<dc:ingridients>
+			150 gr terigu,50 gr tepung beras,2 sdm gula pasir,1/2 sdt ragi instan,1/2 sdt baking powder,1/2 sdt garam,250 ml santan cair,1 butir telur,Pasta pandan secukupnya
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://asset.kompas.com/crops/S4PywK9WRcANqgx2t8ZiAZ7wbVY=/0x27:1000x694/750x500/data/photo/2021/02/26/60387fc826d26.jpg"/>
+		<dc:description>
+			Serabi merupakan jajanan pasar tradisional yang berasal dari Indonesia. Serabi berasal dari bahasa Jawa yang berinduk dasar dari kata "rabi" yang dalam bahasa Jawa berarti "kawin". Mungkin karena proses pembuatannya yang cukup sebentar dan tidak terlalu lama maka orang Jawa menyebutnya dengan kata "Serabi" (seperti waktu proses sekali kawin). Di Jawa Barat serabi dikenal dengan nama surabi atau sorabi. Di Jawa, serabi umumnya disajikan dengan isian gula atau manisan lainnya, tetapi ditatar Sunda/Jawa barat serabi disajikan dengan isian oncom dan asinan lainnya.
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Lumpia">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Lumpia"/>
+		<dc:title>Lumpia</dc:title>
+		<dc:province>Jawa Tengah</dc:province>
+		<dc:city>semarang</dc:city>
+		<dc:type>Makanan ringan</dc:type>
+		<dc:ingridients>
+			1 sdm (15 ml) minyak sayur/minyak canola,455 g daging sapi giling,2 siung bawang putih (dihancurkan),1 sdt (2 g) merica hitam (ditumbuk),1 sdt (6 g) garam,1 sdt (3 g) bawang putih bubuk,1 sdt (5 ml) kecap,30 lembar kulit lumpia siap pakai,475 ml minyak sayur/minyak canola (untuk menggoreng)
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://www.resepistimewa.com/wp-content/uploads/resep-lumpia-semarang.jpg"/>
+		<dc:description>
+			Lumpia adalah sejenis jajanan tradisional Tionghoa. Lumpia yang dikenal oleh orang Indonesia merupakan lafal Bahasa Hokkian.Lumpia terdiri dari lembaran tipis tepung gandum yang dijadikan sebagai pembungkus isian yang umumnya adalah rebung, telur, sayuran segar, daging, atau makanan laut.Di Indonesia, lumpia dikenal sebagai jajanan khas Semarang dengan tata cara pembuatan dan bahan-bahan yang telah disesuaikan dengan tradisi setempat.
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Rawon">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Rawon"/>
+		<dc:title>Rawon</dc:title>
+		<dc:province>Jawa Timur</dc:province>
+		<dc:city>Arekan</dc:city>
+		<dc:type>Makanan berat</dc:type>
+		<dc:ingridients>
+			500 gram daging sengkel 2000 ml air	5 lembar daun jeruk, buang tulangnya 2 batang serai, memarkan1 batang daun bawang, potong 1 cm 1 blok kaldu sapi 1 sendok makan garam 1/4 sendok teh merica bubuk 1/2 sendok teh gula pasir 2 sendok,4 minyak untuk menumis
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2019/07/18/1838279198.jpg"/>
+		<dc:description>
+			Daging untuk rawon umumnya adalah daging sapi yang dipotong kecil-kecil, utamanya adalah bagian sandung lamur. Bumbu supnya sangat khas Indonesia, yaitu campuran bawang merah, bawang putih, lengkuas (laos), ketumbar, kemiri, serai, kunir, cabai, kluwek, garam, serta minyak nabati. Semua bahan ini dihaluskan, lalu ditumis sampai harum. Campuran bumbu ini kemudian dimasukkan dalam kaldu rebusan daging bersama-sama dengan daging. Warna gelap khas rawon berasal dari kluwek. Di luar negeri, rawon disebut sebagai black soup.
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Gudeg">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Gudeg"/>
+		<dc:title>Gudeg</dc:title>
+		<dc:province>DI Yogyakarta</dc:province>
+		<dc:city>semarang</dc:city>
+		<dc:type>Makanan berat</dc:type>
+		<dc:ingridients>
+			Gudeg dibuat dari daging buah nangka yang masih mentah. Berbeda dengan daging buah nangka matang, yang lembut, kuning cerah, berminyak dan rasanya sangat manis, nangka mentah memiliki konsistensi padat dan agak kering, bergetah, berwarna keputihan atau krem ​​​​ringan dan tidak bisa dimakan mentah. Setelah kulitnya dikupas, nangka muda dipotong kecil-kecil dan direbus terlebih dahulu dalam air mendidih sampai lunak. Setelah itu, potongan nangka dituangkan dengan santan - sering dicampur dengan air kelapa, dibumbui dengan bumbu tertentu dan direbus lama—biasanya selama 4-6 jam
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Nasi_Gudeg.jpg/375px-Nasi_Gudeg.jpg"/>
+		<dc:description>
+			Gudeg adalah hidangan khas Provinsi Yogyakarta dan Jawa Tengah yang terbuat dari nangka muda yang dimasak dengan santan. Perlu waktu berjam-jam untuk membuat hidangan ini. Warna coklat biasanya dihasilkan oleh daun jati yang dimasak bersamaan. Gudeg biasanya dimakan dengan nasi dan disajikan dengan kuah santan kental (areh), ayam kampung, telur, tempe, tahu dan sambal goreng krecek.
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Ayam_betutu">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Ayam_betutu"/>
+		<dc:title>Ayam betutu</dc:title>
+		<dc:province>Bali</dc:province>
+		<dc:city>denpasar</dc:city>
+		<dc:type>Makanan berat</dc:type>
+		<dc:ingridients>
+			5 Siung Bawang Merah 5 Siung Bawang Putih 1 Ruas Lengkuas 1 Ruas Kencur 1 Ruas Kunyit 1 Ruas Jahe 2 Batang Sereh/Serai 3 Biji Kemiri 5 Cabai Rawit 1 Sdm Merica 1 Sdt Garam (Secukupnya) 2 Sdt Gula (Secukupnya) Penyedap Rasa (Secukupnya)
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://img-global.cpcdn.com/recipes/7fed52083a9013d2/751x532cq70/ayam-betutu-khas-bali-foto-resep-utama.jpg"/>
+		<dc:description>
+			Betutu adalah lauk yang terbuat dari ayam atau bebek yang utuh yang berisi bumbu, kemudian dipanggang dalam api sekam. Betutu ini telah dikenal di seluruh kabupaten di Bali. Betutu merupakan jenis makanan tradisional daerah Bali yang bahan mentahnya berupa karkas utuh itik dan ayam. Kata betutu berasal dari kata tunu yang berarti bakar dan dirangkai dengan kata be yang berarti daging. Berdasarkan uraian tersebut betutu berarti daging yang dibakar. Ayam betutu merupakan jenis lauk pauk yang dibuat dari daging ayam yang telah dibersihkan kemudian dibalurkan bumbu khas Bali yang dikenal dengan base genep di seluruh permukaan tubuh daging ayam dan sebagian lagi dimasukkan ke dalam rongga abdomennya
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Ayam_Taliwang">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Ayam_Taliwang"/>
+		<dc:title>Ayam Taliwang</dc:title>
+		<dc:province>Nusa Tenggara Timur</dc:province>
+		<dc:city>Lombok</dc:city>
+		<dc:type>Makanan berat</dc:type>
+		<dc:ingridients>
+			cabai merah kering, bawang merah, bawang putih, tomat, terasi goreng, kencur, gula merah, dan garam. Makanan ini biasanya disajikan bersama makanan khas Lombok yang lain, misalnya plecing kangkung.
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ayam_bakar_khas_Taliwang_2.JPG/375px-Ayam_bakar_khas_Taliwang_2.JPG"/>
+		<dc:description>
+			Ayam Taliwang adalah makanan khas Pulau Lombok dari Kampung Karang Taliwang, Kota Mataram, Nusa Tenggara Barat yang berbahan dasar daging ayam. Daging ayam yang disajikan berasal dari ayam kampung muda yang dibakar kemudian dibumbui dengan semacam saus
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Bubur_pedas">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Bubur_pedas"/>
+		<dc:title>Bubur pedas</dc:title>
+		<dc:province>Kalimantan Barat</dc:province>
+		<dc:city>sambas</dc:city>
+		<dc:type>Makanan berat</dc:type>
+		<dc:ingridients>
+			Bubur pedas terbuat dari nasi halus dan kelapa parut. Stok dibuat baik dari daging tulang seperti tulang rusuk atau irisan ayam. Bumbu campuran termasuk bawang merah, bawang putih, cabai merah, serai, lada hitam, dan daun salam. Sejumlah sayuran, antara lain wortel, kangkung, daun inai dan daun kesum (daun laksa),kacang panjang, kecambah, atap bambu dan kentang dadu akan dimasukkan ke dalam panci saat bubur sedang dimasak. Bawang goreng, ikan teri, dan kacang-kacangan ditambahkan pada bubur pedas saat disajikan. Air jeruk nipis, kecap manis, dan sambal juga bisa ditambahkan sebagai bumbu.
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://www.swadayaonline.com/images/view/16-Bubur_Pedas.jpg"/>
+		<dc:description>
+			Bubur pedas atau Bubbor Paddas adalah hidangan bubur tradisional dari Orang Melayu baik di Sambas dan Sarawak.[1] Di Sarawak, biasanya disajikan selama bulan Ramadhan setelah umat Muslim mengakhiri puasa pada waktu berbuka
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Se%27i">	
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Se%27i"/>
+		<dc:title>Se'i</dc:title>
+		<dc:province>Nusa Tenggara Barat</dc:province>
+		<dc:city>Kupang</dc:city>
+		<dc:type>Makanan berat</dc:type>
+		<dc:ingridients>
+			Se'i awalnya berbahan dasar daging babi hutan. Meskipun demikian, kini terdapat berbagai alternatif se'i dengan bahan daging sapi, ayam, atau bahkan ikan.[3] Daging yang selesai diasap dapat langsung dimakan dengan mengirisnya tipis. Namun apabila daging ini telah disimpan beberapa hari, maka harus digoreng kembali, atau dimasak dalam tumisan bunga pepaya dan sayur-mayur lain.
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Se%27i_Babi_2.JPG/330px-Se%27i_Babi_2.JPG"/>
+		<dc:description>
+			Daging se'i atau Se'i adalah hidangan daging asap yang berasal dari Provinsi Nusa Tenggara Timur. Dalam bahasa Rote, se'i artinya daging yang disayat dalam ukuran kecil memanjang, lalu diasapi dengan bara api hingga matang.[1] Hidangan ini terbuat dari daging yang dimasak dengan cara dipanaskan menggunakan asap panas yang berasal dari kayu bakar.
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Soto_Banjar">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Soto_Banjar"/>
+		<dc:title>Soto Banjar</dc:title>
+		<dc:province>Kalimantan Selatan</dc:province>
+		<dc:city>Banjarmasin</dc:city>
+		<dc:type>Makanan berat</dc:type>
+		<dc:ingridients>
+			4 sdm minyak goreng 2,5 liter air 1 ekor ayam kampung 4 butir kapulaga 6 cm kayu manis 3 butir cengkih 2 buah pekak 1 buah biji pala 2 sdt garam
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://www.resepistimewa.com/wp-content/uploads/resep-soto-banjar.jpg"/>
+		<dc:description>
+			Soto Banjar adalah soto khas suku Banjar, Kalimantan Selatan dengan bahan utama ayam serta memiliki aroma harum rempah-rempah seperti kayu manis, biji pala, dan cengkih. Adakalanya pembuatan kuah soto Banjar dapat dicampurkan dengan sedikit susu yang membuat warna kuahnya mejadi tidak bening, tetapi sedikit keruh. Soto ini berisi daging ayam yang sudah disuwir-suwir, dengan tambahan perkedel, kentang rebus, rebusan telur, potongan wortel dan ketupat.
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Klappertaart">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Klappertaart"/>
+		<dc:title>Klappertaart</dc:title>
+		<dc:province>Sulawesi Utara</dc:province>
+		<dc:city>Manado</dc:city>
+		<dc:type>Makanan ringan</dc:type>
+		<dc:ingridients>
+			Air kelapa 150 ml Susu UHT 500 ml Kuning telur 2 pcs Tepung maizena 20 gram Tepung terigu 50 ml Kismis 50 gram Almond slice 5 gram Margarine 100 gram Gula putih 180 gram Dagimg kkelapa muda 50 gram Rum atau vanilla essence 25 ml Garam 5 gram
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://awsimages.detik.net.id/community/media/visual/2020/01/24/351a2c2f-faf1-4ee3-85aa-8f02b50c092a_43.jpeg?w=480"/>
+		<dc:description>
+			Klappertaat dikenal sebagai kue khas Manado dengan bahan dasar kelapa, tepung terigu, susu, mentega dan telur. Resep adonan tersebut merupakan pengaruh saat zaman pendudukan Belanda di Manado. Terdapat beberapa macam cara memasak klappertaart. Bila dipanggang dan menggunakan roti, maka akan menghasilkan klappertaart dalam bentuk yang padat, bisa dipotong layaknya kue taart pada umumnya. Tetapi ada juga cara memasak yang tidak dipanggang. Ini akan menghasilkan tekstur yang lembut. Kue ini paling nikmat bila disantap dalam keadaan dingin jadi tidak boleh dibiarkan terlalu lama di luar pendingin.
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Manjareal">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Manjareal"/>
+		<dc:title>Manjareal</dc:title>
+		<dc:province>Papua Barat</dc:province>
+		<dc:city>sumbawa</dc:city>
+		<dc:type>Makanan ringan</dc:type>
+		<dc:ingridients>
+			250 g kacang tanah tanpa kulit direbus sampai matang,250 g gula pasir,vanili,daun tomat dibentuk seperti burung
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://cf.shopee.co.id/file/a4225a691408d6d7f94c3fd36f95d279"/>
+		<dc:description>
+			Manjareal adalah sebuah jenis kue yang berasal dari daerah Sumbawa. Kue tersebut terbuat dari kacang tanah dan gula putih yang dibungkus dengan daun lontar[1] dalam bentuk mirip dengan simbol keriting dalam kartu remi
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Binte_Biluhuta">	
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Binte_Biluhuta"/>
+		<dc:title>Binte Biluhuta</dc:title>
+		<dc:province>gorontalo</dc:province>
+		<dc:city>gorontalo</dc:city>
+		<dc:type>Makanan berat</dc:type>
+		<dc:ingridients>
+			2 buah jagung manis, yg sudah di pipil,250 gram udang kupas,1000 ml air,5 siung bawang merah, iris tipis,2 buah cabe merah, iris bulat (bisa ditambah jika suka pedas),secukupnya Garam,75 gram kelapa yg sudah diparut kasar,1 sdm air jeruk nipis,1 buah tomat, potong-potong,5 tangkai daun kemangi
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://www.masakapahariini.com/wp-content/uploads/2021/09/Binte-Biluhuta-Khas-Gorontalo-780x440.jpg"/>
+		<dc:description>
+			Binte Biluhuta (Milu Siram atau Sup Jagung) adalah makanan khas masyarakat Gorontalo. Makanan ini merupakan sup yang terdiri dari jagung, ikan atau udang yang di racik sedemikian rupa hingga menghasilkan suatu menu yang sangat lezat dan panas serta memiliki tiga rasa yang khas yakni manis, asin dan pedas. Dalam Bahasa Indonesia Binte yang artinya jagung dan orang Gorontalo sering menyebutnya Milu sedangkan Biluhuta artinya disiram jadi kalau diartikan namanya menjadi jagung yang disiram.[1] Karena berbahan dasar jagung, makanan ini dapat menghancurkan kolesterol khususnya kolesterol jahat (LDL) dalam tubuh. Kandungan karotenoid, bioflavonoid, dan vitamin C dalam jagung bekerja sebagai pengendali kadar kolesterol dan meningkatkan aliran darah dalam tubuh.
+		</dc:description>
+	</rdf:Description>
+
+	<rdf:Description rdf:about="https://id.wikipedia.org/wiki/Papeda">
+		<dc:link rdf:resource="https://id.wikipedia.org/wiki/Papeda"/>
+		<dc:title>Papeda</dc:title>
+		<dc:province>Papua</dc:province>
+		<dc:city>jayapura</dc:city>
+		<dc:type>Makanan ringan</dc:type>
+		<dc:ingridients>
+			Setengah kg sagu atau tepung sagu  3 liter air 2 buah jeruk nipis  1 sdt garam
+		</dc:ingridients>
+		<dc:Image rdf:resource="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Papeda%2C_Kuah_Kuning%2C_Ikan_Tude_Bakar_2.jpg/1200px-Papeda%2C_Kuah_Kuning%2C_Ikan_Tude_Bakar_2.jpg"/>
+		<dc:description>
+			Papeda adalah makanan berupa bubur sagu khas Maluku dan Papua yang biasanya disajikan dengan ikan tongkol atau mubara yang dibumbui dengan kunyit.[1] Papeda berwarna putih dan bertekstur lengket menyerupai lem dengan rasa yang tawar.[1] Papeda merupakan makanan yang kaya serat, rendah kolesterol, dan cukup bernutrisi.
+		</dc:description>
+	</rdf:Description>
+
+</rdf:RDF>

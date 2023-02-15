@@ -1,0 +1,26 @@
+Nama Anggota Kelompok
+Belintawati Zelda Br Ginting 201401003
+M. Raihan Efdin Hasyim	201401007
+Regina Putri Patrecella 201401011
+Sonia Dila Puspita 201401016
+
+Langkah Membuka Website "Travelong"
+A. Folder Tugas_Besar_Akhir Masukkan di folder xampp/htdocs
+
+1. Hidupkan XAMPP
+2. Hidupkan Apache Jena Fuseki
+3. Buka Apache Jena Fuseki di : localhost:3030
+4. lalu buka halaman manage dataset tambahkan data set dengan nama (hotel)
+5. upload file rdf di dataset dari folder Tugas_Besar_Akhir dengan nama file : daftar_tempat_penginapan.rdf
+6. buka localhost:8080/phpmyadmin
+7. lalu buat database dengan nama (travelong)
+8. buka database travelong yang telah dibuat di phpmyadmin
+9. tekan tombol import pada bagian atas untuk import database
+10. import database yang ada di dalam Folder Tugas_Besar_Akhir/Travelong dengan nama file : travelong.sql
+11. jalankan website dengan membuka localhost:8080/Tugas_Besar_Akhir
+12. piling folder Travelong
+
+SELAMAT MENCOBAA!!!! :)
+
+NB: Ikuti cara dengan step by step Agar Hasil Website Keluar
+LIMNK YOUTUBE	: https://youtu.be/3X3f17VwbUA

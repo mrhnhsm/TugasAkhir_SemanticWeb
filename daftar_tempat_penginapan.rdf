@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:tmp="http://www.tubeslokasiwisata/namespace#">
+
+<!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // TEMPAT PENGINAPAN (APARTMEN)
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+-->
+
+<!--Apartemen Medan-->
+<tmp:apartmen rdf:about="https://www.tiket.com/hotel/indonesia/podomoro-city-medan-apartement-by-lian-405001622450712264?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/podomoro-city-medan-apartement-by-lian-405001622450712264?"/>
+    <tmp:nama>Podomoro City Medan Apartement by Lian</tmp:nama>
+    <tmp:kota>Medan</tmp:kota>
+    <tmp:lokasi>Jalan Putri Hijau No.1 OPQ, Kesawan, Kec. Medan Bar., Kota Medan</tmp:lokasi>
+    <tmp:harga>IDR 850.000</tmp:harga>
+    <tmp:kamar>Apartemen 1 Kamar Tidur</tmp:kamar>
+    <tmp:fasilitas>Kolam Renang, Wifi, Parkir, Lift, AC</tmp:fasilitas>
+    <tmp:ukuran>30 m²</tmp:ukuran>
+    <tmp:tamu>4 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/apartmen/Medan"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/05/31/ecb6e0d1-0e4e-45e4-b175-2e7852861527-1622450711455-7021e777079b15db61a5f43a6d56fd2e.jpg"/>
+</tmp:apartmen>
+    
+<tmp:apartmen rdf:about="https://www.tiket.com/hotel/indonesia/apartemen-skyview-setiabudi-by-yanuar-1-408001628561000705?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/apartemen-skyview-setiabudi-by-yanuar-1-408001628561000705?"/>
+    <tmp:nama>Apartemen Skyview Setiabudi By Yanuar 1</tmp:nama>
+    <tmp:kota>Medan</tmp:kota>
+    <tmp:lokasi>Jl. Abdul Hakim, Padang Bulan Selayang I, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20155</tmp:lokasi>
+    <tmp:harga>IDR 641.250</tmp:harga>
+    <tmp:kamar>Kamar Double Bed</tmp:kamar>
+    <tmp:fasilitas>Tike Clean, Kolam Renang, AC, Wifi, Parkir</tmp:fasilitas>
+    <tmp:ukuran>33 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/apartmen/Medan"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/08/10/23e36a09-216a-4054-8916-c3c9c8dc581e-1628560519677-29ad84c1c1d683134d1f634b5de8cb7a.jpg"/>
+</tmp:apartmen>
+    
+<tmp:apartmen rdf:about="https://www.tiket.com/hotel/indonesia/apartemen-skyview-setiabudi-by-yanuar-3-408001629709243051?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/apartemen-skyview-setiabudi-by-yanuar-3-408001629709243051?"/>
+    <tmp:nama>Apartemen Skyview Setiabudi By Yanuar 3</tmp:nama>
+    <tmp:kota>Medan</tmp:kota>
+    <tmp:lokasi>Jl. Abdul Hakim, Padang Bulan Selayang I, Kec. Medan Selayang, Kota Medan, Sumatera Utara 20155</tmp:lokasi>
+    <tmp:harga>IDR 641.250</tmp:harga>
+    <tmp:kamar>Tempat Tidur 1 Double</tmp:kamar>
+    <tmp:fasilitas>Kolam Renang, AC, Wifi, Parkir</tmp:fasilitas>
+    <tmp:ukuran>33 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/apartmen/Medan"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/08/23/853bfde4-23d7-4c82-a7a4-0533d83520f4-1629709248612-5707a5ac3c3c5b5a64fb6d6d322b0771.jpg"/>
+</tmp:apartmen>
+    
+<tmp:apartmen rdf:about="https://www.tiket.com/hotel/indonesia/reiz-condo-apartment-by-mellisa-308001597825813556?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/reiz-condo-apartment-by-mellisa-308001597825813556?"/>
+    <tmp:nama>Reiz Condo Apartment by Mellisa</tmp:nama>
+    <tmp:kota>Medan</tmp:kota>
+    <tmp:lokasi>Jl Tembakau Deli no 1</tmp:lokasi>
+    <tmp:harga>IDR 550.000</tmp:harga>
+    <tmp:kamar>Double Bed</tmp:kamar>
+    <tmp:fasilitas>Kolam Renang, Parkir, Lift, AC, Pusat Kebugaran, Fasilitas Anak, Fasilitas Rapat</tmp:fasilitas>
+    <tmp:ukuran>33 m²</tmp:ukuran>
+    <tmp:tamu>3 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/apartmen/Medan"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/07/18/d22d10fe-979c-4bc4-968a-1e2e3b81c45c-1626546044912-d51e8a2be22050a733ed109e8a14f8c5.jpg"/>
+</tmp:apartmen>
+    
+<!--Apartemen Bali-->
+
+<tmp:apartmen rdf:about="https://www.tiket.com/hotel/indonesia/delu-villas-suites-108001534490304001?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/delu-villas-suites-108001534490304001?"/>
+    <tmp:nama>Delu Villas dan Suites</tmp:nama>
+    <tmp:kota>Bali</tmp:kota>
+    <tmp:lokasi>Tangkuban Perahu Street 3 Seminyak, Kerobokan</tmp:lokasi>
+    <tmp:harga>IDR 383.166</tmp:harga>
+    <tmp:kamar>Kamar Standard</tmp:kamar>
+    <tmp:fasilitas>Parkir, AC, Resepsionis 24 jam, </tmp:fasilitas>
+    <tmp:ukuran>25 m²</tmp:ukuran>
+    <tmp:tamu>1 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/apartmen/Bali"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/28/d6efcc33-30a5-42af-83b6-a9f5cb6e2e7a-1603886950323-dbe143b57e3db1220168142117ae5eb1.jpg"/>
+</tmp:apartmen>
+    
+<tmp:apartmen rdf:about="https://www.tiket.com/hotel/indonesia/coast-boutique-apartment-kuta-108001534490356243?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/coast-boutique-apartment-kuta-108001534490356243?"/>
+    <tmp:nama>Coast Boutique Apartment Kuta</tmp:nama>
+    <tmp:kota>Bali</tmp:kota>
+    <tmp:lokasi>Jalan Pantai Kuta, Gg Wina, Kuta, Badung, Bali</tmp:lokasi>
+    <tmp:harga>IDR 918.079</tmp:harga>
+    <tmp:kamar>1 Kamar Studio</tmp:kamar>
+    <tmp:fasilitas>Sarapan, AC, Parkir</tmp:fasilitas>
+    <tmp:ukuran>30 m²</tmp:ukuran>
+    <tmp:tamu>1 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/apartmen/Bali"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/29/641439a2-88fe-46bd-aa36-aecf2ce61984-1603909214946-e7eeb9e04b4f231b335a6a17fb1ec129.jpg"/>
+</tmp:apartmen>
+    
+<tmp:apartmen rdf:about="https://www.tiket.com/hotel/indonesia/sunset-residence-condotel-112001545304268872?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/sunset-residence-condotel-112001545304268872?"/>
+    <tmp:nama>Sunset Residence Condotel</tmp:nama>
+    <tmp:kota>Bali</tmp:kota>
+    <tmp:lokasi>Jl. Dewi Sri No.11, Legian, Kuta, Kabupaten Badung, Bali 80361, Indonesia</tmp:lokasi>
+    <tmp:harga>IDR 478.571</tmp:harga>
+    <tmp:kamar>1 Double dan 1 Single </tmp:kamar>
+    <tmp:fasilitas>Wifi, Parkir, AC, Lift, restoran</tmp:fasilitas>
+    <tmp:ukuran>65 m²</tmp:ukuran>
+    <tmp:tamu>4 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/apartmen/Bali"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/11/16/c421a15a-971a-4e17-9dc0-59a99d34ce34-1605493498845-5d23f707f26fbe74f80f4536a5d0fcc8.jpg"/>
+</tmp:apartmen>
+    
+<tmp:apartmen rdf:about="https://www.tiket.com/hotel/indonesia/the-apartments-canggu-108001534490352548?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/the-apartments-canggu-108001534490352548?"/>
+    <tmp:nama>The Apartments Canggu</tmp:nama>
+    <tmp:kota>Bali</tmp:kota>
+    <tmp:lokasi>Jl. Pantai Batu Mejan No.85, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351</tmp:lokasi>
+    <tmp:harga>IDR 432.000</tmp:harga>
+    <tmp:kamar>1 Double Bed</tmp:kamar>
+    <tmp:fasilitas>Wifi, Parkir, AC, Restoran, Fasilitas Anak</tmp:fasilitas>
+    <tmp:ukuran>45 m²</tmp:ukuran>
+    <tmp:tamu>1 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/apartmen/Bali"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/350fee12-31c1-48cb-92fb-c7ffb5fb3bcc-1615535146053-0e44b1d4c38cf1ed98554c3df4a0fbd0.jpg"/>
+</tmp:apartmen>
+
+<!--Apartemen Surabaya-->
+
+<tmp:apartmen rdf:about="https://www.tiket.com/hotel/indonesia/sky-53-the-peak-residence-tp5-floor-53--404001618473652380?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/sky-53-the-peak-residence-tp5-floor-53--404001618473652380?"/>
+    <tmp:nama>SKY 53 (The Peak Residence TP5 Floor 53 )</tmp:nama>
+    <tmp:kota>Surabaya</tmp:kota>
+    <tmp:lokasi>Jl. Embong Malang No.1,3,5, Kedungdoro, Tegalsari, Kedungdoro, Kec. Tegalsari, Kota SBY, Jawa Timur 60261</tmp:lokasi>
+    <tmp:harga>IDR 3.333.333</tmp:harga>
+    <tmp:kamar>Apartemen 3 Kamar Tidur</tmp:kamar>
+    <tmp:fasilitas>Kolam Renang, Wifi, AC</tmp:fasilitas>
+    <tmp:ukuran>108 m²</tmp:ukuran>
+    <tmp:tamu>6 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/apartmen/Surabaya"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/01/04/8388243d-eaf5-4e0b-9d59-a960f33c702b-1609730733641-4b984941c3e23a9f57cb120671bbd771.jpg"/>
+</tmp:apartmen>
+
+<tmp:apartmen rdf:about="https://www.tiket.com/hotel/indonesia/compact-studio-room-at-tamansari-papilio-apartment-by-travelio-209001568897108850?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/compact-studio-room-at-tamansari-papilio-apartment-by-travelio-209001568897108850?"/>
+    <tmp:nama>Compact Studio Room at Tamansari Papilio Apartment By Travelio</tmp:nama>
+    <tmp:kota>Surabaya</tmp:kota>
+    <tmp:lokasi>Jl. Ahmad Yani No.176-178, Gayungan, Kec. Gayungan, Kota SBY, Jawa Timur 60235, Indonesia</tmp:lokasi>
+    <tmp:harga>IDR 694.444</tmp:harga>
+    <tmp:kamar>Apartemen 1 Studio</tmp:kamar>
+    <tmp:fasilitas>Kolam Renang, Wifi, AC, Restoran, Pusat Kebugaran</tmp:fasilitas>
+    <tmp:ukuran>20 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/apartmen/Surabaya"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/31/c128a872-31ea-4a80-9dfa-b6942ab1a90b-1604140098426-3e512a4da36c50d1432a9a1b01da2319.jpg"/>
+</tmp:apartmen>
+
+<tmp:apartmen rdf:about="https://www.tiket.com/hotel/indonesia/strategic-2br-apartment-at-trillium-residence-by-travelio-209001569386707935?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/strategic-2br-apartment-at-trillium-residence-by-travelio-209001569386707935?"/>
+    <tmp:nama>Strategic 2BR Apartment at Trillium Residence By Travelio</tmp:nama>
+    <tmp:kota>Surabaya</tmp:kota>
+    <tmp:lokasi>Tower B Lantai 3 Unit 0316; Jl. Pemuda No.108 - 116, Embong Kaliasin, Genteng, Kota SBY, Jawa Timur 60271</tmp:lokasi>
+    <tmp:harga>IDR 1.091.070</tmp:harga>
+    <tmp:kamar>Apartemen 1 Kamar Tidur</tmp:kamar>
+    <tmp:fasilitas>Kolam Renang, Wifi, AC, Restoran, Pusat Kebugaran</tmp:fasilitas>
+    <tmp:ukuran>67 m²</tmp:ukuran>
+    <tmp:tamu>3 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/apartmen/Surabaya"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/f32a436d-811a-4085-8a7b-90bfb6573fce-1615547736427-a673b55e22d297b1f79b05b48da46a98.jpg"/>
+</tmp:apartmen>
+
+<tmp:apartmen rdf:about="https://www.tiket.com/hotel/indonesia/cozy-2br-apartement-at-dian-regency-by-travelio-210001569980714451?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/cozy-2br-apartement-at-dian-regency-by-travelio-210001569980714451?"/>
+    <tmp:nama>Cozy 2BR Apartement at Dian Regency By Travelio</tmp:nama>
+    <tmp:kota>Surabaya</tmp:kota>
+    <tmp:lokasi>Lantai 16, No. 1608, Jl. Keputih, Keputih, Sukolilo, Kota SBY, Jawa Timur 60111</tmp:lokasi>
+    <tmp:harga>IDR 649.751</tmp:harga>
+    <tmp:kamar>Apartemen 1 Kamar Tidur</tmp:kamar>
+    <tmp:fasilitas>Kolam Renang, Wifi, AC, Pusat Kebugaran</tmp:fasilitas>
+    <tmp:ukuran>49 m²</tmp:ukuran>
+    <tmp:tamu>3 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/apartmen/Surabaya"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/31/cef9b4e3-a9d9-4f86-b45b-85e594f99841-1604141879859-f3ab96ddf0c831586671e8a3319d8463.jpg"/>
+</tmp:apartmen>
+    
+<!--Apartemen Yogyakarta-->
+
+<tmp:apartmen rdf:about="https://www.tiket.com/hotel/indonesia/golom-alpha-room-by-vivo-apartment-402001612504821210?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/golom-alpha-room-by-vivo-apartment-402001612504821210?"/>
+    <tmp:nama>Golom Alpha Room by Vivo Apartment</tmp:nama>
+    <tmp:kota>Yogyakarta</tmp:kota>
+    <tmp:lokasi>Jl. Amarta Jl. Seturan Raya No.1, Kledokan, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281, Indonesia</tmp:lokasi>
+    <tmp:harga>IDR 250.000</tmp:harga>
+    <tmp:kamar>Apartemen 1 Studio</tmp:kamar>
+    <tmp:fasilitas>Wifi, Kolam Renang, Restoran, AC, Pusat Kebugaran</tmp:fasilitas>
+    <tmp:ukuran>24 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/apartmen/Yogyakarta"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/31/2d4c1352-98a3-4469-8248-9668096fd286-1604141735876-1d30d7480eb75cd7dfe9ad82bc29fffe.jpg"/>
+</tmp:apartmen>
+
+<tmp:apartmen rdf:about="https://www.tiket.com/hotel/indonesia/studioroom-taman-melati-by-rosalyne-house-406001623396788373?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/studioroom-taman-melati-by-rosalyne-house-406001623396788373?"/>
+    <tmp:nama>Studioroom Taman Melati by Rosalyne House</tmp:nama>
+    <tmp:kota>Yogyakarta</tmp:kota>
+    <tmp:lokasi>Jl. Pogung Kidul No.9D, Pogung Kidul, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284, Indonesia</tmp:lokasi>
+    <tmp:harga>IDR 358.948</tmp:harga>
+    <tmp:kamar>Apartemen 1 Studio</tmp:kamar>
+    <tmp:fasilitas>Kolam Renang, Wifi, AC</tmp:fasilitas>
+    <tmp:ukuran>20 m²</tmp:ukuran>
+    <tmp:tamu>
+2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/apartmen/Yogyakarta"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/06/11/bff1dc1b-b1c1-4d1c-bdc8-cf9bf452227c-1623396909960-47b98e129903cf92b80b203b24ade70b.jpg"/>
+</tmp:apartmen>
+
+<tmp:apartmen rdf:about="https://www.tiket.com/hotel/indonesia/minimalist-apartment-room-with-views-407001626913688810?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/minimalist-apartment-room-with-views-407001626913688810?"/>
+    <tmp:nama>Minimalist Apartment Room With Views</tmp:nama>
+    <tmp:kota>Yogyakarta</tmp:kota>
+    <tmp:lokasi>69QC+493, Pogung Kidul, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284</tmp:lokasi>
+    <tmp:harga>IDR 456.237</tmp:harga>
+    <tmp:kamar>1 Studio</tmp:kamar>
+    <tmp:fasilitas>Wifi, AC</tmp:fasilitas>
+    <tmp:ukuran>20 m²</tmp:ukuran>
+    <tmp:tamu>1 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/apartmen/Yogyakarta"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/09/30/78003517-a5a4-417f-8869-de9094fce068-1633006877985-9acee1da7a3f888d1357d744bae58062.jpg"/>
+</tmp:apartmen>
+
+<tmp:apartmen rdf:about="https://www.tiket.com/hotel/indonesia/apartement-malioboro-city-bintang-3-402001612356113536?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/apartement-malioboro-city-bintang-3-402001612356113536?"/>
+    <tmp:nama>Apartement Malioboro City Bintang 3</tmp:nama>
+    <tmp:kota>Yogyakarta</tmp:kota>
+    <tmp:lokasi>Jl. Laksa Adi Sutjipto Km. 8, Tambakbayan, Caturtunggal, Depok, Janti, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta</tmp:lokasi>
+    <tmp:harga>IDR 283.500</tmp:harga>
+    <tmp:kamar>Apartemen 1 Kamar Standard</tmp:kamar>
+    <tmp:fasilitas>Kolam Renang, AC, Restoran, Pusat Kebugaran, Ruang Rapat</tmp:fasilitas>
+    <tmp:ukuran>21 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/apartmen/Yogyakarta"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/02/03/0667cfd4-1a58-4126-9d61-ba00b530dffe-1612353909535-457957147ccbc11eee394c47fc21ef59.jpg"/>
+</tmp:apartmen>
+    
+
+ <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // TEMPAT PENGINAPAN (HOTEL)
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+ -->
+    
+<!--Hotel Medan-->
+<tmp:hotel rdf:about="https://www.tiket.com/hotel/indonesia/cambridge-hotel-medan-310001603187525069?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/cambridge-hotel-medan-310001603187525069?"/>
+    <tmp:nama>Cambridge Hotel Medan</tmp:nama>
+    <tmp:kota>Medan</tmp:kota>
+    <tmp:lokasi>Jl. S. Parman No.217, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara</tmp:lokasi>
+    <tmp:harga>IDR 902.500</tmp:harga>
+    <tmp:kamar>Kamar Deluks Twin</tmp:kamar>
+    <tmp:fasilitas>Sarapan, Wifi, SPA, Kolam Renang</tmp:fasilitas>
+    <tmp:ukuran>34 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/hotel/Medan"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/04/7650f7a7-c2f8-49d9-ab4e-671937ed851b-1614834913302-565eb848fa843ac199adbf5af5062b3c.jpg"/>
+</tmp:hotel>
+
+<tmp:hotel rdf:about="https://www.tiket.com/hotel/indonesia/de-paris-hotel-410001634036831192?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/de-paris-hotel-410001634036831192?"/>
+    <tmp:nama>De Paris Hotel</tmp:nama>
+    <tmp:kota>Medan</tmp:kota>
+    <tmp:lokasi>Jl. Danau Marsabut No.90, Sei Agul, Kec. Medan Bar., Kota Medan, Sumatera Utara 20114</tmp:lokasi>
+    <tmp:harga>IDR 388.888</tmp:harga>
+    <tmp:kamar>Kamar Superior Double</tmp:kamar>
+    <tmp:fasilitas>Sarapan, Wifi, Restoran, Kolam Renang</tmp:fasilitas>
+    <tmp:ukuran>22 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/hotel/Medan"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/18/b3e12879-3196-4854-9b64-b5c2e2cea6cb-1616072136220-20a56f19a0db75bca7ca6f4e8a4d84da.jpg"/>
+</tmp:hotel>
+    
+<tmp:hotel rdf:about="https://www.tiket.com/hotel/indonesia/adimulia-hotel-medan-108001534490332883?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/adimulia-hotel-medan-108001534490332883?"/>
+    <tmp:nama>Adimulia Hotel Medan</tmp:nama>
+    <tmp:kota>Medan</tmp:kota>
+    <tmp:lokasi>Jl. Pangeran Diponegoro No.8, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara</tmp:lokasi>
+    <tmp:harga>IDR 810.000</tmp:harga>
+    <tmp:kamar>Kamar Deluks Double/Twin</tmp:kamar>
+    <tmp:fasilitas>Sarapan, Wifi, Kolam Renang, SPA</tmp:fasilitas>
+    <tmp:ukuran>40 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/hotel/Medan"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/28/52d1531a-4517-4289-945c-7dad5094ad3e-1603902464385-8cbb4b281150a70c3142ae26d0d8386f.jpg"/>
+</tmp:hotel>
+
+<tmp:hotel rdf:about="https://www.tiket.com/hotel/indonesia/saka-hotel-medan-108001534490318099?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/saka-hotel-medan-108001534490318099?"/>
+    <tmp:nama>Saka Hotel Medan</tmp:nama>
+    <tmp:kota>Medan</tmp:kota>
+    <tmp:lokasi>Jl. Gagak Hitam No.14, Sei Sikambing B, Kec. Medan Sunggal, Kota Medan, Sumatera Utara</tmp:lokasi>
+    <tmp:harga>IDR 720.000</tmp:harga>
+    <tmp:kamar>Double Bed</tmp:kamar>
+    <tmp:fasilitas>Sarapan, Parkir, SPA, AC, Wifi, tempat Rapat</tmp:fasilitas>
+    <tmp:ukuran>35 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/hotel/Medan"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/03/12/40782342-54cf-4cb4-b998-ea02ac0f38d8-1615551727439-66eefe0bcfa3105d4f73b944c4b3068a.jpg"/>
+</tmp:hotel>
+
+<!-- Hotel Bali -->
+<tmp:hotel rdf:about="https://www.tiket.com/hotel/indonesia/hard-rock-hotel-bali-108001534490286416?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/hard-rock-hotel-bali-108001534490286416?"/>
+    <tmp:nama>Hard Rock Hotel Bali</tmp:nama>
+    <tmp:kota>Bali</tmp:kota>
+    <tmp:lokasi>Jalan Pantai Kuta, Banjar Pande Mas, Kuta, Kabupaten Badung, Bali, Indonesia</tmp:lokasi>
+    <tmp:harga>IDR 1.044.440</tmp:harga>
+    <tmp:kamar>Kamar Deluks Double/Twin</tmp:kamar>
+    <tmp:fasilitas>Wifi, Sarapan, Parkir, AC, SPA, Kolam Renang</tmp:fasilitas>
+    <tmp:ukuran>32 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/hotel/Bali"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/11/01/e6c5455d-0f7d-405e-9192-162976be1a23-1604181138128-151c21de9ecc0cb14cf729eec452a9b8.jpg"/>
+</tmp:hotel>
+
+<tmp:hotel rdf:about="https://www.tiket.com/hotel/indonesia/kila-infinity8-bali-inspired-by-aerowisata-hotels-resorts-108001534490332463?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/kila-infinity8-bali-inspired-by-aerowisata-hotels-resorts-108001534490332463?"/>
+    <tmp:nama>Infinity8 Bali</tmp:nama>
+    <tmp:kota>Bali</tmp:kota>
+    <tmp:lokasi>Jl. ByPass Ngurah Rai no. 88A, Jimbaran, Bali 80361</tmp:lokasi>
+    <tmp:harga>IDR 461.338</tmp:harga>
+    <tmp:kamar>Kamar Superior Double/Single</tmp:kamar>
+    <tmp:fasilitas>Wifi, Restoran, SPA, Kolam Renang</tmp:fasilitas>
+    <tmp:ukuran>24 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/hotel/Bali"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/09/16/92078b2a-ba8e-422b-b553-e1ee5cbce807-1600263025263-4e73ee5282cbff958d11cf4acaf5bb08.jpg"/>
+</tmp:hotel>
+
+<tmp:hotel rdf:about="https://www.tiket.com/hotel/indonesia/kamaniiya-petitenget-seminyak-408001627883127451?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/kamaniiya-petitenget-seminyak-408001627883127451?"/>
+    <tmp:nama>Kamaniiya Petitenget Seminyak</tmp:nama>
+    <tmp:kota>Bali</tmp:kota>
+    <tmp:lokasi>Jl. Petitenget No 19, Kerobokan Kelod, Badung</tmp:lokasi>
+    <tmp:harga>IDR 504.962</tmp:harga>
+    <tmp:kamar>Suite Junior Double</tmp:kamar>
+    <tmp:fasilitas>Wifi, Restoran, Kolam Renang</tmp:fasilitas>
+    <tmp:ukuran>43 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/hotel/Bali"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/07/30/68d72c7e-51be-418a-bf14-539ea1774b46-1627638323960-199f09284c586b3f9ff7da73a21edd01.jpg"/>
+</tmp:hotel>
+
+<tmp:hotel rdf:about="https://www.tiket.com/hotel/indonesia/sofitel-bali-nusa-dua-beach-resort-108001534517246273?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/sofitel-bali-nusa-dua-beach-resort-108001534517246273?"/>
+    <tmp:nama>Sofitel Bali Nusa Dua Beach Resort</tmp:nama>
+    <tmp:kota>Bali</tmp:kota>
+    <tmp:lokasi>Kawasan Pariwisata ITDC Lot N5, Nusa Dua, Kuta Selatan, Bali 80361</tmp:lokasi>
+    <tmp:harga>IDR 2.783.000</tmp:harga>
+    <tmp:kamar>Kamar Luxury dengan Kolam Renang Kecil</tmp:kamar>
+    <tmp:fasilitas>Wifi, Restoran, SPA, Kolam Renang</tmp:fasilitas>
+    <tmp:ukuran>48 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/hotel/Bali"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/31/2bd9bed5-0009-4194-a2c8-54a88700b1e9-1604122752579-6f0d20cace316db1374aee5d8488c081.jpg"/>
+</tmp:hotel>
+    
+<!--Hotel Surabaya-->
+
+<tmp:hotel rdf:about="https://www.tiket.com/hotel/indonesia/bumi-surabaya-city-resort-108001534490306863?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/bumi-surabaya-city-resort-108001534490306863?"/>
+    <tmp:nama>Bumi Surabaya City Resort</tmp:nama>
+    <tmp:kota>Surabaya</tmp:kota>
+    <tmp:lokasi>Jl. Jend. Basuki Rakhmat 106 - 128</tmp:lokasi>
+    <tmp:harga>IDR 2.800.000</tmp:harga>
+    <tmp:kamar>Kamar Deluks King Classic</tmp:kamar>
+    <tmp:fasilitas>Breakfast 2x, Kolam Renang, Wifi</tmp:fasilitas>
+    <tmp:ukuran>42 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/hotel/Surabaya"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/11/01/38945de8-a0d2-4541-ba25-203585c33179-1604168394616-c74c81d2a5f50f9a851887fac4b0040c.jpg"/>
+</tmp:hotel>
+    
+<tmp:hotel rdf:about="https://www.tiket.com/hotel/indonesia/oakwood-hotel-residence-surabaya-108001534490381672?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/oakwood-hotel-residence-surabaya-108001534490381672?"/>
+    <tmp:nama>Oakwood Hotel dan Residence Surabaya</tmp:nama>
+    <tmp:kota>Surabaya</tmp:kota>
+    <tmp:lokasi>Jalan Raya Kertajaya Indah No.79, Manyar Sabrangan, Mulyorejo, Kota SBY, Jawa Timur 60116</tmp:lokasi>
+    <tmp:harga>IDR 1.137.870</tmp:harga>
+    <tmp:kamar>Kamar Premier King</tmp:kamar>
+    <tmp:fasilitas>Breakfast, Kolam Renang, Wifi</tmp:fasilitas>
+    <tmp:ukuran>89 m²</tmp:ukuran>
+    <tmp:tamu>1 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/hotel/Surabaya"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/31/5f91ac0c-ea36-45da-90c4-7f88dc91b6a3-1604121353508-67742d07dc30b8680b5a21d67c645580.jpg"/>
+</tmp:hotel>
+    
+<tmp:hotel rdf:about="https://www.tiket.com/hotel/indonesia/doubletree-by-hilton-surabaya-401001609909217892?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/doubletree-by-hilton-surabaya-401001609909217892?"/>
+    <tmp:nama>DoubleTree by Hilton Surabaya</tmp:nama>
+    <tmp:kota>Surabaya</tmp:kota>
+    <tmp:lokasi>Jl. Tunjungan No. 12 Surabaya</tmp:lokasi>
+    <tmp:harga>IDR 1.038.180</tmp:harga>
+    <tmp:kamar>Kamar Twin Guest</tmp:kamar>
+    <tmp:fasilitas>Breakfast 2x, Kolam Renang, Wifi</tmp:fasilitas>
+    <tmp:ukuran>35 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/hotel/Surabaya"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/01/23/abec2d5c-aa15-4d47-bda7-b3b22301539d-1611396308053-9cb9247a2c238b4e06a3887d0a727aa5.jpg"/>
+</tmp:hotel>
+    
+<tmp:hotel rdf:about="https://www.tiket.com/hotel/indonesia/vasa-hotel-surabaya-108001534490382635?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/vasa-hotel-surabaya-108001534490382635?"/>
+    <tmp:nama>Vasa Hotel Surabaya</tmp:nama>
+    <tmp:kota>Surabaya</tmp:kota>
+    <tmp:lokasi>Jl. HR. Muhammad No.31, Surabaya 60189, Indonesia, Putat Gede, Suko Manunggal, Surabaya, Jawa Timur 60189</tmp:lokasi>
+    <tmp:harga>IDR 853.050</tmp:harga>
+    <tmp:kamar>Kamar Deluks Twin</tmp:kamar>
+    <tmp:fasilitas>Wifi, Restoran, Kolam Renang, AC</tmp:fasilitas>
+    <tmp:ukuran>32 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/hotel/Surabaya"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/29/94097e8b-6ba4-4936-afc4-80d5bfe3816e-1603906110725-9f5ccd9e96546353df6f3315a86335a1.jpg"/>
+</tmp:hotel>
+
+<!--Hotel Yogyakarta-->
+    
+<tmp:hotel rdf:about="https://www.tiket.com/hotel/indonesia/neo-awana-yogyakarta-201001548219475478?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/neo-awana-yogyakarta-201001548219475478?"/>
+    <tmp:nama>The Alana Hotel dan Conference Center Malioboro Yogyakarta by ASTON</tmp:nama>
+    <tmp:kota>Yogyakarta</tmp:kota>
+    <tmp:lokasi>Jl Mayjen Sutoyo No. 52 Yogyakarta 55143</tmp:lokasi>
+    <tmp:harga>IDR 1.383.820</tmp:harga>
+    <tmp:kamar>Kamar Premier Double/Single dengan Pemandangan Kota</tmp:kamar>
+    <tmp:fasilitas>Kolam Renang, Wifi, Breakfast 2x, AC, Fasilitas Rapat</tmp:fasilitas>
+    <tmp:ukuran>28 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/hotel/Yogyakarta"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/11/01/41ff8dcf-3340-4083-b72a-98f89c983995-1604177925016-856515f169d42c9280ea908f4723c5e4.jpg"/>
+</tmp:hotel>
+    
+<tmp:hotel rdf:about="https://www.tiket.com/hotel/indonesia/lafayette-boutique-hotel-108001534490352436?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/lafayette-boutique-hotel-108001534490352436?"/>
+    <tmp:nama>Lafayette Boutique Hotel</tmp:nama>
+    <tmp:kota>Yogyakarta</tmp:kota>
+    <tmp:lokasi>Jalan Ring Road Utara, No 409 - Desa Manggung, Catur Tunggal, Yogyakarta, Indonesia 55281</tmp:lokasi>
+    <tmp:harga>IDR 5.699.049</tmp:harga>
+    <tmp:kamar>Suite Presidensial Double</tmp:kamar>
+    <tmp:fasilitas>Kolam Renang, Wifi, Breakfast 2x, AC</tmp:fasilitas>
+    <tmp:ukuran>100m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/hotel/Yogyakarta"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/31/9d0b0182-1635-4b6e-95ee-7f44cf15e0b1-1604131253249-1241eefade506ea3428e13a0d9d8c8f3.jpg"/>
+</tmp:hotel>
+    
+<tmp:hotel rdf:about="https://www.tiket.com/hotel/indonesia/grand-ambarrukmo-yogyakarta-108001534490357551?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/grand-ambarrukmo-yogyakarta-108001534490357551?"/>
+    <tmp:nama>Grand Ambarrukmo Yogyakarta</tmp:nama>
+    <tmp:kota>Yogyakarta</tmp:kota>
+    <tmp:lokasi>Jalan Laksda Adisucipto No. 82 Yogyakarta, Indonesia 55281</tmp:lokasi>
+    <tmp:harga>IDR 1.387.999</tmp:harga>
+    <tmp:kamar>Kamar Deluks Twin</tmp:kamar>
+    <tmp:fasilitas>Kolam Renang, Wifi, Breakfast 2x, AC, SPA</tmp:fasilitas>
+    <tmp:ukuran>31 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/hotel/Yogyakarta"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2021/01/13/7eba9ad3-a5ef-4de3-8d9d-e90273fe1891-1610523317263-54b15390f079c84035fe8753a88a6342.jpg"/>
+</tmp:hotel>
+    
+<tmp:hotel rdf:about="https://www.tiket.com/hotel/indonesia/crystal-lotus-hotel-yogyakarta-by-prabhu-108001534490309167?">
+    <tmp:link rdf:resource="https://www.tiket.com/hotel/indonesia/crystal-lotus-hotel-yogyakarta-by-prabhu-108001534490309167?"/>
+    <tmp:nama>Crystal Lotus Hotel Yogyakarta</tmp:nama>
+    <tmp:kota>Yogyakarta</tmp:kota>
+    <tmp:lokasi>Jl. Magelang No.5, Kutu Dukuh, Sinduadi, Kec. Mlati, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55284, Indonesia</tmp:lokasi>
+    <tmp:harga>IDR 4.398.496</tmp:harga>
+    <tmp:kamar>Suite Eksekutif Double</tmp:kamar>
+    <tmp:fasilitas>Kolam Renang, Wifi, Breakfast 2x, AC</tmp:fasilitas>
+    <tmp:ukuran>66 m²</tmp:ukuran>
+    <tmp:tamu>2 Tamu</tmp:tamu>
+    <tmp:jenis rdf:resource="https://www.tiket.com/hotel/Yogyakarta"/>
+    <tmp:gambar rdf:resource="https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/t_htl-dskt/tix-hotel/images-web/2020/10/31/d2bd0d23-962c-48ef-918e-b616a7a1d583-1604161072057-8022f23bb6a4b5f18383e403ae6b6d73.jpg"/>
+</tmp:hotel>
+
+</rdf:RDF>
